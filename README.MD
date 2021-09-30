@@ -19,7 +19,6 @@ You are asked to create 3 Components on Nuxtjs/VueJS.
   - hint: you are free to use the "Vue2-animate" plugin. 
   
    <img src="https://raw.githubusercontent.com/z10mx7/assignments/main/a.png"  width="500" height="400" />
-<!--   ![task a]( | width=100) -->
 
   ## TASK B
   - Create a Music Player Component Look Like This 
@@ -28,11 +27,17 @@ You are asked to create 3 Components on Nuxtjs/VueJS.
   - PLay Control must have a "previous" button
   - PLay Control must have volume control
   - hint : you are free to use any plugin you want.
+  
+     <img src="https://raw.githubusercontent.com/z10mx7/assignments/main/b.png"  width="500" height="400" />
+
 
   ## TASK C
   - Create a Jalali Calendar Look Like this
   - Calendar must be able to slide between weeks by two "next" and "previous" button
   - hint : you are free to use any plugin you want.
+  
+     <img src="https://raw.githubusercontent.com/z10mx7/assignments/main/c.png"  width="500" height="400" />
+
 
   
   
