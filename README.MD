@@ -16,7 +16,7 @@ You are asked to create 3 Components on Nuxtjs/VueJS.
   - API Response provided in task_a.json
   - each Card's must be able to slide
   - hint: DO NOT use express, serverless-http, or any other RESTAPI for tasks.
-  - hint: you are free to use the "Vue2-animate" or any other plugin. 
+  - hint: you are free to use the "Vue2-animate" or any other plugin you want. 
   
    <img src="https://raw.githubusercontent.com/z10mx7/assignments/main/a.png"  width="800" height="600" />
 
