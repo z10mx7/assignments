@@ -5,8 +5,9 @@ You are asked to create 3 Components on Nuxtjs/VueJS.
 ### Rules : 
   - This project must be prepared to be deployed to different environments without modifying the code.
   - You Have 3 days to do 2 of these tasks based on your own choice.
+  - you must send the result in a public GITHUB repository
   - DO NOT PANIC, you can get help for tasks from us.
-  - if you have any question about these tasks, feel free to send an email to us at :  
+  - if you have any question about these tasks, feel free to send an email to us at :  sahar.khaliilii1990@gmail.com
 
 
 ## TASK A
