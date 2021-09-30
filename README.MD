@@ -18,7 +18,7 @@ You are asked to create 3 Components on Nuxtjs/VueJS.
   - hint: DO NOT use express, serverless-http, or any other RESTAPI for tasks.
   - hint: you are free to use the "Vue2-animate" plugin. 
   
-   <img src="https://raw.githubusercontent.com/z10mx7/assignments/main/a.png"  width="700" height="400" />
+   <img src="https://raw.githubusercontent.com/z10mx7/assignments/main/a.png"  width="800" height="500" />
 
   ## TASK B
   - Create a Music Player Component Look Like This 
