@@ -36,7 +36,7 @@ You are asked to create 3 Components on Nuxtjs/VueJS.
   - Calendar must be able to slide between weeks by two "next" and "previous" button
   - hint : you are free to use any plugin you want.
   
-     <img src="https://raw.githubusercontent.com/z10mx7/assignments/main/c.png"  width="700" height="200" />
+     <img src="https://raw.githubusercontent.com/z10mx7/assignments/main/c.png"  width="800" height="200" />
 
 
   
