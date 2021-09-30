@@ -17,7 +17,9 @@ You are asked to create 3 Components on Nuxtjs/VueJS.
   - each Card's must be able to slide
   - hint: DO NOT use express, serverless-http, or any other RESTAPI for tasks.
   - hint: you are free to use the "Vue2-animate" plugin. 
-  ![task a](https://raw.githubusercontent.com/z10mx7/assignments/main/a.png | width=100)
+  
+   <img src="https://raw.githubusercontent.com/z10mx7/assignments/main/a.png" data-canonical-src="https://raw.githubusercontent.com/z10mx7/assignments/main/a.png" width="200" height="400" />
+<!--   ![task a]( | width=100) -->
 
   ## TASK B
   - Create a Music Player Component Look Like This 
