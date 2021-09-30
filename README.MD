@@ -28,7 +28,7 @@ You are asked to create 3 Components on Nuxtjs/VueJS.
   - PLay Control must have volume control
   - hint : you are free to use any plugin you want.
   
-     <img src="https://raw.githubusercontent.com/z10mx7/assignments/main/b.png"  width="500" height="400" />
+     <img src="https://raw.githubusercontent.com/z10mx7/assignments/main/b.png"  width="400" height="600" />
 
 
   ## TASK C
