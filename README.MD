@@ -8,7 +8,7 @@ You are asked to create 3 Components on Nuxtjs/VueJS.
   - task "A" is mandatory
   - you must send the result in a public GITHUB repository
   - DO NOT PANIC, you can get help for tasks from us.
-  - if you have any question about these tasks, feel free to send an email to us at :  sahar.khaliilii1990@gmail.com
+  - if you have any question about these tasks, feel free to send an email to us at :  z10mx7@protonmail.com
 
 
 ## TASK A
